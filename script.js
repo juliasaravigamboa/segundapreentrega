@@ -108,49 +108,49 @@ const distritos = [
 {
   nombre: azul,
   poblacion:
-  votantes: 
+  votantes: 87306,
   inscriptos:
 },
 {
   nombre: bolivar,
   poblacion:
-  votantes: 
+  votantes: 72618,
   inscriptos:
 },
 {
   nombre:generalalvear,
   poblacion:
-  votantes: 
+  votantes: 20770,
   inscriptos:
 },
 {
   nombre: olavarria,
   poblacion:
-  votantes: 
+  votantes: 221993,
   inscriptos:
 },
 {
   nombre: roquePerez,
   poblacion:
-  votantes: 
+  votantes: 26340,
   inscriptos:
 },
 {
   nombre: saladillo,
-  poblacion:
-  votantes: 
+  poblacion: 
+  votantes: 65320,
   inscriptos:
 },
 {
   nombre: tapalque,
   poblacion:
-  votantes: 
+  votantes: 20599,
   inscriptos:
 },
 {
   nombre: veinticincodeMayo,
   poblacion:
-  votantes: 
+  votantes: 73682,
   inscriptos:
 },
 ]
